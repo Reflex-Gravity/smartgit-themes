@@ -10,6 +10,9 @@ That's all!
 
 You should see the new theme after restarting SmartGit.
 
+## Caveats
+I haven't tested it on platforms other than Linux. If it works let me know I'll update it here.
+
 ### Below is a screenshot of how it'll look like.
 
 ![alt text](https://i.imgur.com/OutzKWs.png)
