@@ -4,7 +4,7 @@ Themes for SmartGit application
 A list of custom themes for SmartGit.
 
 ## How to use?
-You can install by going to `Edit -> Preferences -> User Interface -> Custom Theme` and point to the `.theme` file.
+You can install by going to `Edit -> Preferences -> User Interface -> Theme -> Custom` and select the `.theme` file.
 
 That's all!
 
